@@ -1,5 +1,7 @@
 # Based on the 'Quarto Nvim Kickstarter'
 
+<https://github.com/jmbuhr/quarto-nvim-kickstarter>
+
 **Added more R-specific packages**, particularly:
 
 - `jamespeapen/Nvim-R`
