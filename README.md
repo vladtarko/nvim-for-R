@@ -11,6 +11,14 @@ Companion to <https://github.com/quarto-dev/quarto-nvim>.
 
 This requires Neovim >= **v0.9.0** (https://github.com/neovim/neovim/releases/tag/stable)
 
+## Using visidata from nvim
+
+Add the functions from the `Rprofile` file to your own `.Rprofile`.
+
+Install `visidata`: <https://www.visidata.org/install/>
+
+This allows you to have a nice terminal viewer of R dataframes, and also to generate a summary of your dataframe. The currently set shortcuts for this are `\V` (for view) and `\S` (for summary).
+
 ## Videos
 
 Check out this playlist for a full guide and walkthrough:
